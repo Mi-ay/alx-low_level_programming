@@ -2,7 +2,7 @@
 #define MAIN_H
 
 #include <stdio.h>
-
+void print_number(int n);
 void print_triangle(int size);
 int _putchar(char c);
 int _isupper(int c);
