@@ -3,6 +3,7 @@
  * _pow_recursion - returns the value of x raised to the power of y
  * @x: an int
  * @y: an int
+ * Return: void
  */
 int _pow_recursion(int x, int y)
 {
